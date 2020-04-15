@@ -1,0 +1,22 @@
+.sidebar-title {
+  border-bottom: 1px #e8e8e8 solid;
+  border-right: 1px #e8e8e8 solid;
+  padding-bottom: 20px;
+
+  &__info {
+    height: 80px;
+  }
+
+  &__logo {
+    width: 100%;
+    height: 100%;
+  }
+
+  .btn-change-store {
+    color: #1890ff;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

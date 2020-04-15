@@ -1,0 +1,11 @@
+.sidebar-menu {
+  border-right: 1px #e8e8e8 solid;
+  .favorites-items {
+    color: red;
+    text-transform: uppercase;
+    border-bottom: 1px #e8e8e8 solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 60px;
+  }
+}

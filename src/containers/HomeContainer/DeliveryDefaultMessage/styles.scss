@@ -1,0 +1,19 @@
+.delivery-default-container {
+  padding: 15px 10px;
+  border: 1px #e8e8e8 solid;
+
+  &__title {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  &__item {
+    display: flex;
+    margin-bottom: 20px;
+  }
+
+  .btn-update-message {
+    width: 20%;
+    background: #e8e8e8;
+  }
+}

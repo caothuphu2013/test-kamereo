@@ -1,0 +1,23 @@
+.dropdown-menu-overlay {
+  border-right-width: 0;
+  padding: 0;
+}
+
+.user-menu {
+  &__avatar {
+    background-color: transparent;
+    border: 1px solid black;
+    cursor: pointer;
+    color: black;
+    margin-right: 2px;
+  
+    &:hover {
+      background-color: #002433 !important;
+      color: white !important;
+    }
+
+    .anticon-user {
+      margin-right: 0;
+    }
+  }
+}

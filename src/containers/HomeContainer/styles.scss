@@ -1,0 +1,15 @@
+.home-container {
+  &__title {
+    span {
+      color: green;
+      font-size: x-large;
+    }
+
+    .line {
+      height: 3px;
+      width: 50px;
+      background-color: green;
+      margin-bottom: 10px;
+    }
+  }
+}
