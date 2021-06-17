@@ -29,7 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "jest --runInBand --detectOpenHandles --forceExit",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lighthouse": "lhci autorun"
   },
   "eslintConfig": {
     "extends": "react-app"
